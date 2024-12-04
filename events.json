@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1733294190572,
+    "title": "new event",
+    "description": "Discuss the new project requirements.",
+    "time": "2024-12-04T14:00:00"
+  },
+  {
+    "id": 1733291765046,
+    "title": "Meeting with Team",
+    "description": "Discuss Q4 strategies",
+    "time": "2024-12-04T15:30:00"
+  },
+  {
+    "id": 1733291998754,
+    "title": "Meeting with Team",
+    "description": "Discuss Q4 strategies",
+    "time": "2024-12-04T15:30:00"
+  }
+]

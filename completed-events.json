@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1733295136222,
+    "title": "test event",
+    "description": "event to test functionality",
+    "time": "2024-12-04T12:20:00"
+  },
+  {
+    "id": 1733295187658,
+    "title": "test event",
+    "description": "event to test functionality",
+    "time": "2024-12-04T12:30:00"
+  }
+]
